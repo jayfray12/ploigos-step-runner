@@ -15,7 +15,7 @@ Ploigos Step Runner (PSR) implemented as a Python library.
 - [Python Package Documentation](https://ploigos.github.io/ploigos-step-runner/)
 - [Ploigos Overview](https://ploigos.github.io/ploigos-docs/)
 
-## Installs
+## Install
 
 Latest Release
 ```bash
